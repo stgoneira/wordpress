@@ -2,16 +2,17 @@
 
 ## Sesiones 
 
-1.  Miércoles 27 de Abril
-2.  Jueves 28 de Abril
-3.  Lunes 2 de Mayo
-4.  Martes 3 de Mayo
-5.  Miércoles 4 de Mayo 
-6.  Jueves 5 de Mayo
-7.  Lunes 9 de Mayo
-8.  Martes 10 de Mayo
-9.  Miércoles 11 de Mayo
-10. Jueves 12 de Mayo
+1.  Lunes 2 de Mayo
+2.  Martes 3 de Mayo
+3.  Miércoles 4 de Mayo 
+4.  Jueves 5 de Mayo
+5.  Lunes 9 de Mayo
+6.  Martes 10 de Mayo
+7.  Miércoles 11 de Mayo
+8. Jueves 12 de Mayo
+9. Lunes 16 de Mayo 
+10. Martes 17 de Mayo 
+
 
 
 ## Temáticas 
