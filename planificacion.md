@@ -50,6 +50,13 @@
 1.5. Instalar Wordpress en servidor local 
 1.6. Distinguir el Backend y Frontend de Wordpress 
 
+
+2.1. Diferenciar entre páginas y entradas 
+2.2. Probar la creación de páginas y entradas 
+2.3. Crear categorías para clasificar contenido 
+2.4. Emplear páginas para construir un sitio web básico 
+2.5. Emplear entradas y categorías para la creación de un blog 
+
 2.
 3.
 4.
