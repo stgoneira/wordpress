@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<title>Presentación - Wordpress</title>
+		<title>Instalación en Windows - Wordpress</title>
 
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.0/reset.min.css" integrity="sha512-Mjxkx+r7O/OLQeKeIBCQ2yspG1P5muhAtv/J+p2/aPnSenciZWm5Wlnt+NOUNA4SHbnBIE/R2ic0ZBiCXdQNUg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.0/reveal.min.css" integrity="sha512-e3dnmFe5hH2bJx1MvUU3PFToGVQ2xykp/VGERCkuh4lTGMJ5QuxKFRIwix8DfnfkavwJiL6rehb9e1d6mFLwlg==" crossorigin="anonymous" referrerpolicy="no-referrer" />		
@@ -17,23 +17,62 @@
 				<section data-separator="^---$" data-separator-vertical="^===$" data-separator-notes="^Note:" data-markdown data-line-numbers>
     				<textarea data-template>
 ## [Wordpress](#)
-### Presentación del Curso
+### Instalación en Windows 
 [Santiago Neira](#)
 
 ---
-## [Objetivos](#)
-- Construir un sitio web pequeño (5 a 10 páginas) usando Wordpress de manera local 
-- Identificar y clasificar los elementos técnicos necesarios para llevar un sitio web a producción 
+## [Instalación](#)
+
+1. Instale los servidores (recomendado XAMPP)
+2. Inicie los servidores (BD y HTTP)
+3. Copie los archivos de Wordpress hacia la carpeta del Servidor HTTP 
+4. Cree una Base de Datos en MySQL para Wordpress 
+5. Instale Wordpress desde su Navegador 
 
 ---
-## [Temario](#)
+## [Instalación Servidores](#)
 
-https://github.com/stgoneira/wordpress
+- Descargar XAMPP desde https://www.apachefriends.org/index.html 
+- Siga los pasos de instalación 
 
 ---
-## [Evaluación Diagnóstica (20 min)](#)
+## [Iniciar los servidores](#)
 
-https://docs.google.com/forms/d/e/1FAIpQLScSeSZyBEJS6yATTmpcT64W0slBLIaLWB2X0S5z9sRrxhYjiQ/viewform?usp=pp_url
+- Ejecute XAMPP 
+- Asegúrese de iniciar Apache y MySQL 
+
+---
+## [Instalar Wordpress](#)
+
+- Descargue Wordpress desde: https://es.wordpress.org/download/ 
+- Copie el archivo .zip o .tar.gz hacia la carpeta [htdocs](#) de XAMPP 
+- Descomprima las archivos
+
+---
+## [Crear Base de Datos](#)
+
+- En su navegador vaya a http://localhost/phpmyadmin 
+- Cree una base de datos con el nombre de su preferencia 
+
+---
+## [Instalar Wordpress](#)
+
+- En su navegador vaya a http://localhost/wordpress y pinche **"¡vamos a ello!"**
+- Complete con el nombre de su base de datos, el usuario es **root** y la contraseña debe dejarla en blanco, lo demás debe dejar los valores por defecto.
+- Siga los pasos del instalador
+
+---
+## [Enlaces Útiles](#)
+
+- https://www.apachefriends.org/ (XAMPP)
+- https://wordpress.org/support/article/installing-wordpress-on-your-own-computer/
+
+---
+## [Actividad](#)
+
+- Instale 2 instancias de Wordpress 
+	1. Carpeta llamada **wordpress** (para practicar)
+	2. Y otra con nombre que ud. desee para desarrollar proyecto curso 
 				    </textarea>
 				</section>
 			</div>

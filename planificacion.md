@@ -41,9 +41,11 @@
 - Responsividad del sitio
 - Aplicar modificaciones simples a partir de CSS
 
-## Aprendizajes Esperados por Sesión 
+## Planificación por Sesión 
 
-1.1. Distinguir los elementos necesarios para publicar un sitio web 
+1.1 Identificar los temas a tratar durante el curso (15m) 
+1.2 Evaluar conocimientos previos relacionados con el curso (20m) 
+1.3. Distinguir los elementos necesarios para publicar un sitio web 
 1.2. Identificar las características de un CMS 
 1.3. Discutir los pros y contras del Software Libre 
 1.4. Instalar servidores necesarios para Wordpress de manera local 
@@ -57,8 +59,8 @@
 2.4. Emplear páginas para construir un sitio web básico 
 2.5. Emplear entradas y categorías para la creación de un blog 
 
-2.
-3.
+3.1. Cargar recursos multimedia en  
+
 4.
 5.
 6.
