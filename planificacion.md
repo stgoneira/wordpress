@@ -57,8 +57,8 @@
 2.4. Emplear páginas para construir un sitio web básico 
 2.5. Emplear entradas y categorías para la creación de un blog 
 
-2.
-3.
+3.1. Cargar recursos multimedia en  
+
 4.
 5.
 6.
