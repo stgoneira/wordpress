@@ -1,4 +1,5 @@
 https://generatewp.com/
+https://wphierarchy.com/
 https://www.studiopress.com/themes/genesis/
 https://themeisle.com/themes/neve/
 https://wpastra.com/
@@ -28,6 +29,7 @@ https://www.wpthemedetector.com/
 - really simple ssl 
 - shortcodes 
 - simple author box 
+- regenerate thumbnails 
 
 ## seguridad
 - google auth 
