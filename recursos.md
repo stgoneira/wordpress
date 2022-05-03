@@ -1,3 +1,4 @@
+https://generatewp.com/
 https://www.studiopress.com/themes/genesis/
 https://themeisle.com/themes/neve/
 https://wpastra.com/

@@ -29,6 +29,19 @@
 define('FS_METHOD', 'direct');
 ```
 
+---
+## [Permitir .htaccess en Apache](#)
+```apache
+<Directory "/var/www/html/wordpress">
+    #
+    # AllowOverride controls what directives may be placed in .htaccess files.
+    # It can be "All", "None", or any combination of the keywords:
+    #   Options FileInfo AuthConfig Limit
+    #
+    AllowOverride All
+
+</Directory>
+```
 				    </textarea>
 				</section>
 			</div>
