@@ -1,5 +1,7 @@
 # WORDPRESS 
 
+## Sesión 4 de 10 - Jueves - 20220505
+
 ## Sesión 3 de 10 - Miércoles - 20220504
 
 Objetivos  
@@ -24,10 +26,11 @@ Objetivos
 Objetivos 
 -----------
 
-- Usar un hosting real para instalar Wordpress 
-- Reconocer los requerimientos que debe tener un servidor para soportar Wordpress 
-- Usar editor de código para HTML 
-- Reconocer la sintaxis y etiquetas básicas de HTML 
+2.1. Usar un hosting real para instalar Wordpress 
+2.2. Reconocer los requerimientos que debe tener un servidor para soportar Wordpress 
+2.3. Usar editor de código para HTML 
+2.4. Reconocer la sintaxis y etiquetas básicas de HTML 
+
 
 
 ## Sesión 1 de 10 - Lunes - 20220502 

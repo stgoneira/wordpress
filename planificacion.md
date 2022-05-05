@@ -45,6 +45,7 @@
 
 ## Planificación por Sesión 
 
+### Sesión 1 
 1.1 Identificar los temas a tratar durante el curso
 1.2 Evaluar conocimientos previos relacionados con el curso
 1.3. Distinguir los elementos necesarios para publicar un sitio web
@@ -54,16 +55,32 @@
 1.5. Instalar Wordpress en servidor local
 1.6. Distinguir el Backend y Frontend de Wordpress
 
+### Sesión 2 
+2.1. Usar un hosting real para instalar Wordpress 
+2.2. Reconocer los requerimientos que debe tener un servidor para soportar Wordpress 
+2.3. Usar editor de código para HTML 
+2.4. Reconocer la sintaxis y etiquetas básicas de HTML 
 
-2.1. Diferenciar entre páginas y entradas
-2.2. Probar la creación de páginas y entradas
-2.3. Crear categorías para clasificar contenido
-2.4. Emplear páginas para construir un sitio web básico
-2.5. Emplear entradas y categorías para la creación de un blog
+### Sesión 3  
+3.1. Reconocer las estructura básicas de un documento HTML 
+3.2. Reconocer la sintaxis de un elemento HTML, sus atributos, valores y contenido 
+3.3. Reconocer las etiquetas básicas que dan forma al contenido de una página web HTML (h1..h6, p, img, a, li, ol, div)
+3.4. Reconocer el rol del lenguaje CSS en un sitio web 
+3.5. Reconocer la sintaxis en el lenguaje CSS 
+3.6. Reconocer los selectores CSS (id, clase, etiqueta)
+3.7. Reconocer las propiedades CSS 
+3.8. Reconocer las unidades relativas disponible en CSS (em, ex, ch, rem, vw, vh, vmin, vmax, %)
+3.9. Reconocer las unidades absolutas disponible en CSS (cm, mm, in, px, pt, pc)
+3.10. Reconocer la sintaxis de un color en CSS (rgb, rgba, hex, nombre)
 
-3.1. Cargar recursos multimedia en  
+### Sesión 4 
 
-4.
+4.1. 
+
+- Resumir las diferencias entre una página y un post en WP 
+- Usar el backend de WP para crear una jerarquía de páginas y su orden 
+- Usar de manera básica el nuevo editor de WP llamado Gutenberg 
+
 5.
 6.
 7.
