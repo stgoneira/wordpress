@@ -75,7 +75,12 @@
 
 ### Sesión 4 
 
-4.1. 
+4.1. Distinguir el rol que cumple cada lenguaje de programación (HTML, CSS, JS y PHP) 
+4.2. Distinguir dónde se ejecuta cada uno de los lenguajes 
+4.3. Distinguir la función que cumple cada servidor en un entorno Wordpress 
+4.4. Reconocer la sintaxis del lenguaje PHP 
+4.5. Reconocer los conceptos principales en un lenguaje de programación (variables, condicionales, bucles, funciones, comentarios, etc)
+4.6. Identificar el uso de estos lenguajes dentro de Wordpress 
 
 - Resumir las diferencias entre una página y un post en WP 
 - Usar el backend de WP para crear una jerarquía de páginas y su orden 

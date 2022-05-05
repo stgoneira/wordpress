@@ -1,0 +1,36 @@
+@startmindmap 
+*[#Orange] Fundamentos PHP  
+**[#Lime] Variables 
+***[#DarkCyan] Tipos de Datos  
+****[#Coral] Textos
+****[#Coral] Números 
+****[#Coral] Booleanos     
+****[#Coral] Fechas  
+****[#Coral] Arrays 
+****[#Coral] Clases   
+***[#DarkCyan] Alcance   
+****[#Coral] Variables Locales 
+****[#Coral] Variables Globales 
+****[#Coral] Variables de Instancia 
+****[#Coral] Variables de Clase 
+**[#Lime] Condicionales 
+***[#DarkCyan] if else 
+***[#DarkCyan] switch 
+***[#DarkCyan] operador ternario 
+**[#Lime] Bucles (Loops)
+***[#DarkCyan] while 
+***[#DarkCyan] do ... while 
+***[#DarkCyan] for
+***[#DarkCyan] foreach 
+**[#Lime] Funciones  
+***[#DarkCyan] Parámetros  
+**[#Lime] POO  
+***[#DarkCyan] Clases 
+****[#Coral] Atributos 
+****[#Coral] Métodos 
+*****[#DarkViolet] Parámetros   
+***[#DarkCyan] Interfaces   
+***[#DarkCyan] Herencia  
+**[#Lime] Excepciones  
+**[#Lime] Comentarios 
+@endmindmap 
