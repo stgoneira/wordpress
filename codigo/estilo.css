@@ -1,0 +1,94 @@
+/*
+sintaxis comentarios
+*/
+
+/*
+Sintaxis CSS: 
+
+selector {
+    propiedad: valor;
+}
+*/
+/*
+h2 {
+    color: red;    
+    font-size: 3em; 
+    text-transform: uppercase;
+}
+*/
+
+p {
+    color: green; 
+}
+
+li {
+    text-transform: uppercase;
+}
+/*
+3 formas de selectores: 
+
+a) por etiqueta 
+b) por clase 
+c) por ID 
+*/
+
+/*
+selector por clase 
+
+.clase 
+*/
+.contenido-principal {
+    background-color: deepskyblue;
+}
+
+/*
+selector por ID 
+
+#identificador 
+*/
+#img-juana {
+    border: 5px solid red;
+}
+
+/* CSS Avanzado */
+div.contenido-principal ol li {
+    color:darkgoldenrod; 
+} 
+
+/* ************************* */
+body {
+    font-size: 12px;
+}
+
+.noticia h2 {
+    font-size: 2rem;
+}
+
+.sidebar h2 {
+    font-size: 1.5em;
+}
+
+.footer h2 {
+    font-size: 1.2rem;
+}
+
+@media (max-width: 600px) {
+    div.share_buttons {
+        display: none;
+    }
+}
+
+/* COLORES 
+a) por nombre 
+b) hexadecimal
+c) rgb 
+*/
+
+table td {
+    color: #a85918;
+}
+
+table th {
+    color: rgb(150, 0, 250); 
+}
+
