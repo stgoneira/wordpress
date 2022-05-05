@@ -1,3 +1,5 @@
+
+
 https://generatewp.com/
 https://wphierarchy.com/
 https://www.studiopress.com/themes/genesis/
@@ -20,8 +22,16 @@ https://coolors.co/palettes/trending
 https://www.awwwards.com/
 https://webcode.tools/
 https://www.wpthemedetector.com/
+https://thispersondoesnotexist.com/
+
+
+# wordpress versiones 
+- https://wordpress.org/news/category/releases/
+- https://make.wordpress.org/core/2018/12/08/updating-the-minimum-php-version/
 
 # plugins
+
+- https://developer.wordpress.org/resource/dashicons
 
 ## básicos
 - updraft-plus
@@ -45,7 +55,7 @@ https://www.wpthemedetector.com/
 - google tag manager 
 
 ## avanzados
-- avanced custom fields 
+- advanced custom fields (https://wordpress.org/plugins/advanced-custom-fields/)
 - code snippets 
 
 ## diseño
