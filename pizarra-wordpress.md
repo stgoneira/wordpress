@@ -2,6 +2,19 @@
 
 ## Sesión 4 de 10 - Jueves - 20220505
 
+Objetivos 
+-----------
+
+4.1. Distinguir el rol que cumple cada lenguaje de programación (HTML, CSS, PHP y JS) 
+4.2. Distinguir dónde se ejecuta cada uno de los lenguajes 
+4.3. Distinguir la función que cumple cada servidor en un entorno Wordpress 
+4.4. Identificar dónde son almacenados los datos 
+4.5. Diferenciar las credenciales y ubicaciones de cada servidor 
+4.6. Reconocer la sintaxis del lenguaje PHP 
+4.7. Reconocer los conceptos principales en un lenguaje de programación (variables, condicionales, bucles, funciones, comentarios, arrays, etc)
+4.8. Reconocer la forma en qué PHP se integra y da el dinamismo a un documento HTML 
+4.9. Identificar el uso de estos lenguajes dentro de Wordpress (themes y custom types) 
+
 ## Sesión 3 de 10 - Miércoles - 20220504
 
 Objetivos  
