@@ -74,13 +74,25 @@
 3.10. Reconocer la sintaxis de un color en CSS (rgb, rgba, hex, nombre)
 
 ### Sesión 4 
-
 4.1. Distinguir el rol que cumple cada lenguaje de programación (HTML, CSS, JS y PHP) 
 4.2. Distinguir dónde se ejecuta cada uno de los lenguajes 
 4.3. Distinguir la función que cumple cada servidor en un entorno Wordpress 
-4.4. Reconocer la sintaxis del lenguaje PHP 
-4.5. Reconocer los conceptos principales en un lenguaje de programación (variables, condicionales, bucles, funciones, comentarios, etc)
-4.6. Identificar el uso de estos lenguajes dentro de Wordpress 
+4.4. Identificar dónde son almacenados los datos 
+4.5. Diferenciar las credenciales y ubicaciones de cada servidor 
+4.6. Reconocer la sintaxis del lenguaje PHP 
+4.7. Reconocer los conceptos principales en un lenguaje de programación (variables, condicionales, bucles, funciones, comentarios, arrays, etc)
+4.8. Reconocer la forma en qué PHP se integra y da el dinamismo a un documento HTML 
+4.9. Identificar el uso de estos lenguajes dentro de Wordpress (themes y custom types) 
+
+### Sesión 5 
+
+
+4.5. Reconocer la sintaxis del lenguaje JS 
+4.6. Reconocer los conceptos principales en un lenguaje de programación (variables, condicionales, bucles, funciones, comentarios, arrays, etc)
+4.7. Reconocer cómo JS se integra a HTML a través de los eventos 
+4.8. Identificar el uso de estos lenguajes dentro de Wordpress (themes y custom types)
+
+
 
 - Resumir las diferencias entre una página y un post en WP 
 - Usar el backend de WP para crear una jerarquía de páginas y su orden 
