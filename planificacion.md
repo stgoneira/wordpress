@@ -91,6 +91,16 @@
 5.3. Organizar la carpeta raíz del hosting configurando la dirección de wordpress (URL)
 5.4. Reconocer cómo la zona horaria impacta en los registros y en la publicación de contenido 
 5.5. Generar una estructura del sitio a través de páginas 
+5.6. Instalar un plugin 
+5.7. Crear un Theme hijo a través de el plugin "Child Theme Configurator"
+5.8. Reconocer la importancia de no editar los archivos de WP
+5.9. Distinguir la diferencia entre un Theme Clásico y uno con soporte de Bloques  
+5.9. Distinguir la precedencia de archivos en la jerarquía de un Theme 
+5.10. Personalizar a través de la jerarquía de un Theme 
+5.11. Creación de un plugin básico 
+5.12. Reconocer la función de un hook 
+5.13. Reconocer la capacidad de los tipos personalizados 
+5.14. Personalizar la apariencia usando un Theme hijo personalizado según tipo de contenido 
 
 ////////////////////////////////////////
 
