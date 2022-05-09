@@ -86,11 +86,18 @@
 
 ### Sesión 5 
 
+5.1. Distinguir el Backend del Frontend
+5.2. Reconocer cómo modificar los ajustes del sitio 
+5.3. Organizar la carpeta raíz del hosting configurando la dirección de wordpress (URL)
+5.4. Reconocer cómo la zona horaria impacta en los registros y en la publicación de contenido 
+5.5. Generar una estructura del sitio a través de páginas 
 
-4.5. Reconocer la sintaxis del lenguaje JS 
-4.6. Reconocer los conceptos principales en un lenguaje de programación (variables, condicionales, bucles, funciones, comentarios, arrays, etc)
-4.7. Reconocer cómo JS se integra a HTML a través de los eventos 
-4.8. Identificar el uso de estos lenguajes dentro de Wordpress (themes y custom types)
+////////////////////////////////////////
+
+- Reconocer la sintaxis del lenguaje JS 
+- Reconocer los conceptos principales en un lenguaje de programación (variables, condicionales, bucles, funciones, comentarios, arrays, etc)
+- Reconocer cómo JS se integra a HTML a través de los eventos 
+- Identificar el uso de estos lenguajes dentro de Wordpress (themes y custom types)
 
 
 
