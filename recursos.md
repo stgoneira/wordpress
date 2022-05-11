@@ -24,6 +24,10 @@ https://webcode.tools/
 https://www.wpthemedetector.com/
 https://thispersondoesnotexist.com/
 
+# bloques 
+
+- https://wordpress.com/support/wordpress-editor/blocks/group-block/
+- https://wordpress.org/support/article/navigation-block/ 
 
 # wordpress versiones 
 - https://wordpress.org/news/category/releases/
